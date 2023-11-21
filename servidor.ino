@@ -108,5 +108,5 @@ void loop() {
   }*/
   
   //digitalWrite(led, HIGH);
-  delay(1000);
+  delay(900);
 }
